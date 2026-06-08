@@ -1,2 +1,3 @@
-# GDA1_108794
-Grundlagen der Anwendungsentwicklung A4
+# Grundlagen der Anwendungsentwicklung A4
+
+Submitted by u108794 
